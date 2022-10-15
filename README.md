@@ -1,4 +1,4 @@
-# File_Enumerator
+# File Enumerator
 
 Rename all files in a folder to numbers.
 
