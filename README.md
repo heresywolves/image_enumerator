@@ -1,2 +1,5 @@
-# image_enumerator
-Rename all images in a folder to numbers.
+# File_Enumerator
+
+Rename all files in a folder to numbers.
+
+- Useful for organizing images
